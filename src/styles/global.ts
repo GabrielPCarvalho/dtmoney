@@ -46,7 +46,7 @@ body {
 }
 
 button {
-  cursor: pointer;
+  cursor: pointer 0.2;
 }
 
 [disabled] {
